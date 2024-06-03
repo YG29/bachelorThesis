@@ -19,6 +19,7 @@ tqdm = "^4.66.2"
 transformers = "^4.39.3"
 tensorflow-probability = "^0.24.0"
 lime = "^0.2.0.1"
+shap = "^0.45.1"
 
 
 [build-system]
